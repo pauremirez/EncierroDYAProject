@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical"
+              android:gravity="center_horizontal">
+
+    <!--  Sample Dashboard screen with Two buttons -->
+    <TextView
+            android:id="@+id/tv_reg_status"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_medium"
+            android:text="@string/registry_status"
+            android:textStyle="bold"
+            />
+    <TextView
+            android:id="@+id/tv_reg_status_result"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_medium"
+            android:text="@string/registry_status_result"
+            />
+
+    <TextView
+            android:id="@+id/tv_message_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_medium"
+            android:text="@string/broadcast_label"
+            android:textStyle="bold"/>
+
+    <TextView
+            android:id="@+id/tv_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_medium"/>
+    <Button android:id="@+id/btnViewInjured"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/viewInjured"
+            android:layout_marginTop="25dip"/>
+
+    <Button android:id="@+id/btnNewInjured"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/addNewInjured"
+            android:layout_marginTop="25dip"/>
+
+</LinearLayout>
+
+
+
+

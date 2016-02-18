@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res" >
+            <file
+                name="abuela"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\abuela.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="abuelo"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\abuelo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="abuelo2"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\abuelo2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="abuelo3"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\abuelo3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="adulto"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\adulto.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ajustes_android"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\ajustes_android.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ambulance"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\ambulance.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="anciano"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\anciano.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="back"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\back.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="black"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\black.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="boy"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\boy.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn3050"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\btn3050.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btnmas50"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\btnmas50.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btnmenos30"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\btnmenos30.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="buttonadd"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\buttonadd.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="camino"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\camino.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="cancel"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\cancel.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="cargado"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\cargado.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="cargado3"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\cargado3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="cargado_practicas"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\cargado_practicas.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="customborder"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\customborder.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="delete"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\delete.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="edit"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\edit.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="emergency"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\emergency.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="emergency_practicas"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\emergency_practicas.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="encamino"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\encamino.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="encamino_practicas"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\encamino_practicas.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="encierro"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\encierro.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="entre30_50"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\entre30_50.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="entre30_50_azul"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\entre30_50_azul.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="exit"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\exit.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="fail"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\fail.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="fiesta"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\fiesta.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="fiesta2"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\fiesta2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="flagblack"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\flagblack.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="flagblue"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\flagblue.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="flaggreen"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\flaggreen.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="flagorange"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\flagorange.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="flagred"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\flagred.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="flagwhite"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\flagwhite.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="flagyellow"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\flagyellow.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="flechablue"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\flechablue.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="flecharoja"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\flecharoja.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="girl"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\girl.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="green"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\green.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="greenbutton"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\greenbutton.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="green_button"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\green_button.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="hombre"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\hombre.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="hombre_adulto"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\hombre_adulto.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="home"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\home.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="hospi"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\hospi.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="hospital"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\hospital.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="hospital2"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\hospital2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="hospital_practicas"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\hospital_practicas.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\ic_action_search.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="jeringuilla"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\jeringuilla.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="joven"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\joven.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="list"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\list.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mas50"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\mas50.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mas50_azul"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\mas50_azul.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="menos30"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\menos30.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="menos30_azul"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\menos30_azul.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mujer"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\mujer.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mujer_adulta"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\mujer_adulta.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ok"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\ok.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ok_practicas"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\ok_practicas.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="practicas"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\practicas.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="red"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\red.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="red_button"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\red_button.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="save"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\save.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="success"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\success.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="test"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\test.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="toro"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\toro.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="toro2"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\toro2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="urgencia"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\urgencia.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="vaca"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\vaca.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="vallado"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\vallado.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="vallado_practicas"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\vallado_practicas.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="yellow"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\yellow.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-mdpi\ic_action_search.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-xhdpi\ic_action_search.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_menu"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\activity_menu.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="add_injured"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\add_injured.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="all_injured"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\all_injured.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ambulance_main"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\ambulance_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="edit_injured"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\edit_injured.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="gender"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\gender.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="injured_info"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\injured_info.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_injured"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\list_injured.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="login"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\login.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="old"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\old.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="old_old"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\old_old.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="old_old2"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\old_old2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="register"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\register.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="settings"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\settings.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="status_cargado"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\status_cargado.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="status_en_camino"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\status_en_camino.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="status_hospital"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\status_hospital.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="status_libre"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\status_libre.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="status_urgencia"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\status_urgencia.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="transmisions_menu"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\transmisions_menu.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\menu\activity_main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="login"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\menu\login.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="padding_large" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="padding_medium" >8dp
+                </dimen>
+                <dimen name="padding_small" >8dp
+                </dimen>
+            </file>
+            <file
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="fullName" >Full Name
+                </string>
+                <string name="old" >Edad:
+                </string>
+                <string name="location" >Establecer localización
+                </string>
+                <string name="edit" >Editar
+                </string>
+                <string name="unconscious" >Inconsciente
+                </string>
+                <string name="selectOld" ><u>
+Seleccione el rango de edad del herido
+                    </u></string>
+                <string name="stand" >Puesto:
+                </string>
+                <string name="gcm_error" >GCM error
+                </string>
+                <string name="libre" ><bold>
+Libre
+                    </bold></string>
+                <string name="normalMode" >Modo encierro
+                </string>
+                <string name="server_register_error" >Server register error
+                </string>
+                <string name="male" >Hombre
+                </string>
+                <string name="login" >Entrar
+                </string>
+                <string name="urgencia" ><bold>
+Nueva urgencia: E-0
+                    </bold></string>
+                <string name="ambulance" >Ambulancia
+                </string>
+                <string name="resource" >Recurso
+                </string>
+                <string name="selectGender" ><u>
+Seleccione el sexo del herido
+                    </u></string>
+                <string name="abdomenPenetratingInjury" >H.penetrante Abdomen
+                </string>
+                <string name="gcm_registerred" >GCM unregistered
+                </string>
+                <string name="newInjured" >Nuevo herido
+                </string>
+                <string name="title_gender" >Sexo
+                </string>
+                <string name="cancel" >Cancelar
+                </string>
+                <string name="conscious" >Consciente
+                </string>
+                <string name="transfer" >TRASLADO HOSPITAL
+                </string>
+                <string name="onHead" >Cabeza
+                </string>
+                <string name="grave" >Grave
+                </string>
+                <string name="nombre_usuario" >Usuario
+                </string>
+                <string name="registry_status" >Registry Status:
+                </string>
+                <string name="txPenetratingInjury" >H.penetrante TX
+                </string>
+                <string name="deformity" >deformidad
+                </string>
+                <string name="legs" >Piernas
+                </string>
+                <string name="triage" >triaje
+                </string>
+                <string name="policontusion" >Policontusion
+                </string>
+                <string name="registerMe" >I don\'t have account. Register Me!
+                </string>
+                <string name="lbl_exit" >Cerrar sesion
+                </string>
+                <string name="title_register" >Registro de usuario
+                </string>
+                <string name="title_old" >Edad
+                </string>
+                <string name="M30" >-30
+                </string>
+                <string name="enCamino" ><bold>
+En camino
+                    </bold></string>
+                <string name="viewInjured" >Ver heridos
+                </string>
+                <string name="EnviarMensaje" >Enviar mensaje
+                </string>
+                <string name="head" >Cabeza/Cuello
+                </string>
+                <string name="notes" >Notas: 
+                </string>
+                <string name="menu_settings" >Settings
+                </string>
+                <string name="title_edit" >Editar herido
+                </string>
+                <string name="contusions" >Contusiones
+                </string>
+                <string name="regbutton" >Registrar
+                </string>
+                <string name="symptom" ><u>
+Sintomas
+                    </u></string>
+                <string name="txtStatus" >STATUS
+                </string>
+                <string name="bruises" >Magulladuras
+                </string>
+                <string name="convencional" >Convencional
+                </string>
+                <string name="user" >Usuario
+                </string>
+                <string name="title_menu_activity" >Menu transmisiones
+                </string>
+                <string name="register" >Register
+                </string>
+                <string name="gender" >Sexo:
+                </string>
+                <string name="female" >Mujer
+                </string>
+                <string name="encierro" >encierro
+                </string>
+
+                <string-array name="spinnerPlace" >
+                    <item>
+1
+                    </item>
+                    <item>
+2
+                    </item>
+                    <item>
+3
+                    </item>
+                    <item>
+4
+                    </item>
+                    <item>
+base0
+                    </item>
+                </string-array>
+
+                <string name="app_name" >Encierro
+                </string>
+                <string name="logout" >Logout Me
+                </string>
+                <string name="server_unregistered" >Server unregistered
+                </string>
+                <string name="back" >Espalda
+                </string>
+                <string name="abdomen" >Abdomen
+                </string>
+                <string name="addSympthons" ><u>
+Indique la sintomatología del herido
+                    </u></string>
+                <string name="s2" >Fractura
+                </string>
+                <string name="s1" >Magulladuras
+                </string>
+                <string name="registry_status_result" >Not Registered
+                </string>
+                <string name="id" >ID:
+                </string>
+                <string name="lbl_back" >Volver
+                </string>
+                <string name="leve" >leve
+                </string>
+                <string name="contusionsDeformities" >Contusion con
+                </string>
+                <string name="goring" >Cornada
+                </string>
+                <string name="title_symptom" >Sintomas
+                </string>
+                <string name="test" >Pruebas
+                </string>
+                <string name="btn_aceptar" >Aceptar
+                </string>
+                <string name="lbl_home" >Menu
+                </string>
+                <string name="valldo" >vallado
+                </string>
+                <string name="glasgow" >Glasgow: 
+                </string>
+                <string name="hemorrhages" >Sangrado masivo
+                </string>
+                <string name="tracheal_intubation" >Insuficiencia respiratoria
+                </string>
+                <string name="recoverLostPassword" >¿Olvidaste la constraseña?
+                </string>
+                <string name="skull" >Craneal
+                </string>
+                <string name="alreadyRegistered" >Already registered. Login Me!
+                </string>
+                <string name="email" >Email
+                </string>
+                <string name="editSympthons" ><u>
+Modifique la sintomatología del herido
+                    </u></string>
+                <string name="delete" >Borrar
+                </string>
+                <string name="server_registering" >Server Regstering
+                </string>
+                <string name="arms" >Brazos
+                </string>
+                <string name="broadcast_result" >No broadcast message yet
+                </string>
+                <string name="broadcast_label" >Mensajes:
+                </string>
+                <string name="datosPaciente" >Datos paciente
+                </string>
+                <string name="Send" >Enviar
+                </string>
+                <string name="addNewInjured" >Nuevo herido
+                </string>
+                <string name="muyGrave" >Muy Grave
+                </string>
+                <string name="btn_desreg_gcm" >DesReg GCM
+                </string>
+                <string name="title_activity_main" >Encierro
+                </string>
+                <string name="place" >Puesto
+                </string>
+                <string name="advanced" ><u>
++Info
+                    </u></string>
+                <string name="thisLocation" >Establecer este punto como localización del puesto
+                </string>
+                <string name="welcome" >WELCOME
+                </string>
+                <string name="mode" >Modos de uso
+                </string>
+                <string name="blank" > - 
+                </string>
+                <string name="fracture" >Fractura
+                </string>
+                <string name="others" >Otros
+                </string>
+
+                <string-array name="spinnerResource" >
+                    <item>
+Transmisiones
+                    </item>
+                    <item>
+Convencional
+                    </item>
+                    <item>
+Medicalizada
+                    </item>
+                </string-array>
+
+                <string name="viewStandInjured" >Ver heridos del puesto
+                </string>
+                <string name="saveChanges" >Guardar
+                </string>
+                <string name="transmisiones" >Transmisiones
+                </string>
+                <string name="P50" >+50
+                </string>
+                <string name="userId" >Indicativo
+                </string>
+                <string name="REGISTER" >REGISTRAR
+                </string>
+                <string name="health_center" >Centro sanitario
+                </string>
+                <string name="trachealIntubation" > Intubación traqueal 
+                </string>
+                <string name="LOGIN" >ENTRAR
+                </string>
+                <string name="face" >Golpe en cara
+                </string>
+                <string name="status" >Nivel de consciencia
+                </string>
+                <string name="server_registered" >Server registered
+                </string>
+                <string name="server_unregister_error" >Server unregister error
+                </string>
+                <string name="testMode" >Modo prueba
+                </string>
+                <string name="chat" >Chat
+                </string>
+                <string name="title_all_injured" >Heridos
+                </string>
+                <string name="hello" >HELLO
+                </string>
+                <string name="advancedOptions" >Opciones Avanzadas
+                </string>
+                <string name="cuts" >Cortes (sutura)
+                </string>
+                <string name="title_main_activity" >Menú ambulancias
+                </string>
+                <string name="action_settings" >action_settings
+                </string>
+                <string name="cargado" ><bold>
+Cargado
+                    </bold></string>
+                <string name="icon" >gravedad
+                </string>
+                <string name="password" >Password
+                </string>
+                <string name="dead" >Muerto
+                </string>
+                <string name="chest" >Torax/Abdomen
+                </string>
+                <string name="medicalizada" >Medicalizada
+                </string>
+                <string name="tce" >TCE
+                </string>
+                <string name="tx" >Tórax
+                </string>
+                <string name="hospital" ><bold>
+Centro hospitalario
+                    </bold></string>
+                <string name="lbl_connected" >conectado
+                </string>
+                <string name="SendMessage" >Mensaje a enviar:
+                </string>
+                <string name="reg_gcm" >Reg GCM
+                </string>
+                <string name="B3050" >30–50
+                </string>
+                <string name="bloodPresure" >P.A.: 
+                </string>
+                <string name="deformities" >Deformidades
+                </string>
+                <string name="pruebas" >Modo PRUEBAS
+                </string>
+            </file>
+            <file
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\values\strings_activity_login.xml"
+                qualifiers="" >
+                <string name="prompt_email" >Email
+                </string>
+                <string name="action_sign_in_register" ><b>
+Sign in
+                    </b> or register
+                </string>
+                <string name="action_sign_in_short" >Sign in
+                </string>
+                <string name="error_field_required" >This field is required
+                </string>
+                <string name="error_incorrect_password" >This password is incorrect
+                </string>
+                <string name="prompt_password" >Password
+                </string>
+                <string name="error_invalid_password" >This password is too short
+                </string>
+                <string name="action_forgot_password" >Recover lost password
+                </string>
+                <string name="error_invalid_email" >This email address is invalid
+                </string>
+                <string name="login_progress_signing_in" >Signing in…
+                </string>
+            </file>
+            <file
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Light" />
+
+                <style name="textViewStyle" >
+                </style>
+            </file>
+            <file
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\values-large\dimens.xml"
+                qualifiers="large-v4" >
+                <dimen name="padding_medium" >16dp
+                </dimen>
+                <dimen name="padding_large" >16dp
+                </dimen>
+                <dimen name="padding_small" >8dp
+                </dimen>
+            </file>
+            <file
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light" />
+            </file>
+            <file
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" />
+            </file>
+            <file
+                name="urgencia_practicas"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\urgencia_practicas.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="cargado3_practicas"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\cargado3_practicas.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="hospital2_practicas"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\hospital2_practicas.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="camino_practicas"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\camino_practicas.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="chat_menu"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\menu\chat_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="telefono"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\telefono.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="chat"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\chat.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="bubble_a"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\bubble_a.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bubble_b"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi\bubble_b.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bubble_b"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-xhdpi\bubble_b.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bubble_a"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\drawable-xhdpi\bubble_a.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_chat"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\activity_chat.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_chat_singlemessage"
+                path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\main\res\layout\activity_chat_singlemessage.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\build\generated\res\rs\debug" />
+        <source path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="G:\PAULA\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\src\debug\res" />
+    </dataSet>
+
+</merger>

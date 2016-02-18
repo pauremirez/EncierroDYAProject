@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/txtStatus"
+        android:id="@+id/txtStatusCargado"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/cargado"
+        android:id="@+id/txtCargado"
+        android:gravity="center"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnCargado"
+            android:src="@drawable/flecharoja"
+            android:layout_weight="1"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            android:layout_gravity="center|center_vertical"
+            android:contentDescription="@string/urgencia"/>
+
+    </LinearLayout>
+
+
+
+
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cargado"
+        android:layout_gravity="center"
+        android:layout_weight="6"
+        android:contentDescription="@string/urgencia"/>
+
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/datosPaciente"
+        android:id="@+id/btnDatosPaciente"
+        android:layout_gravity="center" />
+
+
+
+</LinearLayout>
+    </ScrollView><!-- From: file:/G:/PAULA/UNED/UNED%202013-2014/PFC/EncierroDYAProject/EncierroDYA/src/main/res/layout/status_cargado.xml -->

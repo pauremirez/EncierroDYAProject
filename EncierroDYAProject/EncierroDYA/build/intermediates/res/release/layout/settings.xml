@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imgSettings"
+        android:layout_gravity="center"
+        android:background="@drawable/ajustes_android" />
+</LinearLayout><!-- From: file:/G:/PAULA/UNED/UNED%202013-2014/PFC/EncierroDYAProject/EncierroDYA/src/main/res/layout/settings.xml -->

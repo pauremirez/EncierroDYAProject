@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu"
+        android:title="@string/mode" >
+        <!-- "file" submenu -->
+        <menu>
+            <item android:id="@+id/testMode"
+                android:title="@string/testMode" />
+            <item android:id="@+id/normalMode"
+                android:title="@string/normalMode" />
+        </menu>
+    </item>
+    <item android:id="@+id/chat"
+        android:title="@string/chat" >
+    </item>
+</menu>
+<!-- From: file:/G:/PAULA/UNED/UNED%202013-2014/PFC/EncierroDYAProject/EncierroDYA/src/main/res/menu/activity_main.xml -->

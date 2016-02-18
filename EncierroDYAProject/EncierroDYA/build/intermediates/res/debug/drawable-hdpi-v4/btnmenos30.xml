@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:drawable="@drawable/menos30_azul"
+            android:state_pressed="true" />
+        <item android:drawable="@drawable/menos30_azul"
+            android:state_focused="true" />
+        <item android:drawable="@drawable/menos30" />
+</selector><!-- From: file:/G:/PAULA/UNED/UNED%202013-2014/PFC/EncierroDYAProject/EncierroDYA/src/main/res/drawable-hdpi/btnmenos30.xml -->

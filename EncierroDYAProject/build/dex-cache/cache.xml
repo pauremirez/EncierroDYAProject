@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="G:\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\build\pre-dexed\debug\gcm-47ffa84f1e7de0859c09c833897a066ac54f162d.jar"
+        jar="G:\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\libs\gcm.jar"
+        jumboMode="false"
+        revision="19.0.0"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa"/>
+    <item
+        dex="G:\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\build\pre-dexed\debug\android-support-v4-a600292c465d5e42764346ad3e1d13f6033c0444.jar"
+        jar="G:\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="19.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f"/>
+    <item
+        dex="G:\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\build\pre-dexed\debug\ksoap2-3bc673cf3548447aac0ce841c6a68ac52a211d1c.jar"
+        jar="G:\UNED\UNED 2013-2014\PFC\EncierroDYAProject\EncierroDYA\libs\ksoap2.jar"
+        jumboMode="false"
+        revision="19.0.0"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052"/>
+
+</pre-dex-items>

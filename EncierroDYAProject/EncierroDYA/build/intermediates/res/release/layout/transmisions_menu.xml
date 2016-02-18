@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<LinearLayout
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:gravity="center_horizontal">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+
+    <ImageButton
+        android:id="@+id/online"
+        android:layout_width="48dip"
+        android:layout_height="48dip"
+        android:contentDescription="@string/lbl_connected"
+        android:padding="@dimen/padding_medium"
+        android:background="@null"
+        android:scaleType="fitEnd"/>
+
+        <TextView
+            android:id="@+id/lbl_online"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dip"
+            android:textStyle="bold"/>
+
+
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="right">
+
+
+
+
+            <TextView
+                android:id="@+id/lbl_exit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lbl_exit"
+                android:paddingTop="12dip"
+                android:textStyle="italic"/>
+
+            <ImageButton
+                android:id="@+id/exit"
+                android:layout_width="40dip"
+                android:layout_height="40dip"
+                android:contentDescription="@string/lbl_exit"
+                android:padding="@dimen/padding_medium"
+                android:src="@drawable/exit"
+                android:background="@null"
+                android:scaleType="fitEnd"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/llTest"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="left">
+
+  <!--          <CheckBox android:id="@+id/cbTest"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/pruebas"
+                android:gravity="left"
+                android:paddingRight="8dip"
+                android:onClick="onTestCheckButtonClicked"/> -->
+
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+            <TextView
+                android:id="@+id/lbl_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/id"
+                android:paddingTop="15dip"
+                android:padding="@dimen/padding_medium"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/lbl_userId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding_medium"
+                android:paddingTop="15dip"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+
+
+    <!--   <TextView
+           android:id="@+id/tv_message_label"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:padding="@dimen/padding_medium"
+           android:text="@string/broadcast_label"
+           android:layout_gravity="left"
+           android:textStyle="bold"/>
+
+
+       <TextView
+               android:id="@+id/tv_message"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:padding="@dimen/padding_medium"/>-->
+
+
+    <!--<LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="50dip"
+        android:paddingRight="50dip">
+        <ImageView
+            android:id="@+id/heridosPuesto"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:layout_gravity="bottom"
+            android:contentDescription="@string/app_name"
+            android:layout_marginTop="@dimen/padding_large"
+            android:src="@drawable/jeringuilla" />
+        <Button android:id="@+id/btnViewStandInjured"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/viewStandInjured"
+            android:layout_marginTop="25dip"/>
+    </LinearLayout>-->
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="50dip"
+        android:paddingRight="50dip">
+    <ImageView
+        android:id="@+id/listInjured"
+        android:layout_width="40dip"
+        android:layout_height="40dip"
+        android:layout_gravity="bottom"
+        android:contentDescription="@string/app_name"
+        android:layout_marginTop="@dimen/padding_large"
+        android:src="@drawable/list" />
+
+    <Button android:id="@+id/btnViewInjured"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/viewInjured"
+            android:layout_marginTop="25dip"/>
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="50dip"
+        android:paddingRight="50dip">
+        <ImageView
+            android:id="@+id/nuevoHerido"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:layout_gravity="bottom"
+            android:contentDescription="@string/app_name"
+            android:layout_marginTop="@dimen/padding_large"
+            android:src="@drawable/ambulance" />
+    <Button android:id="@+id/btnNewInjured"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/addNewInjured"
+            android:layout_marginTop="25dip"/>
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+   <ImageView
+        android:id="@+id/vallado"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/valldo"
+       android:layout_marginTop="25dip"/>
+</LinearLayout>
+</LinearLayout>
+    </ScrollView>
+
+
+
+<!-- From: file:/G:/PAULA/UNED/UNED%202013-2014/PFC/EncierroDYAProject/EncierroDYA/src/main/res/layout/transmisions_menu.xml -->

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/imgTest2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/test"
+            android:contentDescription="@string/test"/>
+
+        <LinearLayout android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal"
+            android:paddingTop="20dip"
+            android:paddingBottom="20dip"
+            android:gravity="center|top"
+            android:layout_weight="1">
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imgMale30"
+                android:background="@drawable/boy"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:contentDescription="@string/urgencia"/>
+
+            <ImageButton
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:id="@+id/btnMinus30"
+                android:background="@drawable/btnmenos30"
+                android:layout_weight="1"
+                android:contentDescription="@string/urgencia"/>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imgFemale30"
+                android:layout_gravity="center"
+                android:background="@drawable/girl"
+                android:layout_weight="1"
+                android:contentDescription="@string/urgencia"/>
+        </LinearLayout>
+
+
+
+        <LinearLayout android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:paddingTop="20dip"
+            android:paddingBottom="20dip"
+            android:layout_weight="1">
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imgMale3050"
+                android:layout_gravity="center"
+                android:background="@drawable/hombre_adulto"
+                android:layout_weight="1"
+                android:contentDescription="@string/urgencia"/>
+
+            <ImageButton
+                android:id="@+id/btn3050"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/btn3050"
+                android:layout_weight="1"
+                android:contentDescription="@string/urgencia"/>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imgFemale3050"
+                android:layout_gravity="center"
+                android:background="@drawable/mujer_adulta"
+                android:layout_weight="1"
+                android:contentDescription="@string/urgencia"/>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal"
+            android:paddingTop="20dip"
+            android:paddingBottom="20dip"
+            android:gravity="center|bottom"
+            android:layout_weight="1">
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imgMale50"
+                android:layout_gravity="center"
+                android:background="@drawable/abuelo"
+                android:layout_weight="1"
+                android:contentDescription="@string/urgencia"/>
+
+            <ImageButton
+                android:id="@+id/btnPlus50"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/btnmas50"
+                android:layout_weight="1"
+                android:contentDescription="@string/urgencia"/>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imgFemale50"
+                android:layout_gravity="center"
+                android:background="@drawable/abuela"
+                android:layout_weight="1"
+                android:contentDescription="@string/urgencia"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

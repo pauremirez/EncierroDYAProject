@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/entre30_50_azul"
+        android:state_pressed="true" />
+    <item android:drawable="@drawable/entre30_50_azul"
+        android:state_focused="true" />
+    <item android:drawable="@drawable/entre30_50" />
+</selector><!-- From: file:/G:/PAULA/UNED/UNED%202013-2014/PFC/EncierroDYAProject/EncierroDYA/src/main/res/drawable-hdpi/btn3050.xml -->
